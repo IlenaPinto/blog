@@ -47,3 +47,6 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Para agregar metodo div_for
+gem 'record_tag_helper', '~> 1.0'
